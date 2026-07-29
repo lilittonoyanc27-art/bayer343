@@ -1,0 +1,6 @@
+{
+  "name": "Испанские прилагательные",
+  "description": "Изучение испанских прилагательных с русского языка: карточки, самопроверка, викторины, игры и грамматика",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
